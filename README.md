@@ -16,7 +16,7 @@ A simple web app built with **Next.js** for user to create post with title,conte
 
 - **Frontend:** Next.js (React), Tailwind CSS  
 - **Backend:** Next.js API routes  
-  **Database:** MongoDB
+ - **Database:** MongoDB
 
 ## Getting Started
 
